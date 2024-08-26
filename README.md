@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovoight
 - 👀 I’m interested in ... full-stack development
-- 🌱 I’m currently learning ... SQLAlchemy ORM
+- 🌱 I’m currently learning ... Pub/Sub
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... jovoight@gmail.com
 
